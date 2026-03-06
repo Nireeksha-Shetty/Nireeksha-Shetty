@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Header Name -->
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=A78BFA&center=true&vCenter=true&width=1000&height=100&lines=Hey%2C+I'm+Nireeksha+Shetty+👋" alt="Header" />
+<h1>Hi, I'm Nireeksha Shetty 👋</h1>
+<h3>Full Stack Engineer · Java & React · FinTech & MedTech</h3>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
