@@ -21,15 +21,15 @@ Currently working on modern full-stack systems using:
 
 ## 💼 Professional Experience
 
-**Full Stack Developer**
-*GalaxE Solutions | 2022 – Present*
+**Full Stack Developer**  
+GalaxE Solutions (2022 – Present)
 
-* Designed and developed full-stack enterprise applications using Spring Boot & React
-* Built REST APIs with JPA/Hibernate and integrated with Oracle, MSSQL & PostgreSQL
-* Implemented JWT-based authentication & microservices with Spring Cloud Gateway
-* Developed CI/CD pipelines and automated deployments
-* Worked on cloud integrations using AWS services & infrastructure provisioning with Terraform
-* Integrated monitoring and observability tools (Grafana, tracking systems)
+- Designed and developed full-stack enterprise applications using Spring Boot & React
+- Built REST APIs with JPA/Hibernate and integrated with Oracle, MSSQL & PostgreSQL
+- Implemented JWT-based authentication & microservices with Spring Cloud Gateway
+- Developed CI/CD pipelines and automated deployments
+- Worked on cloud integrations using AWS services & infrastructure provisioning with Terraform
+- Integrated monitoring and observability tools (Grafana, tracking systems)
 
 ---
 
