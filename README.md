@@ -6,7 +6,7 @@
 
 ### 🏦 Financial Technology
 - Trading & transaction processing systems
-- Real<div align="center">
+- Real time transaction<div align="center">
 
 <!-- Header Name -->
 <h1>Hi, I'm Nireeksha Shetty 👋</h1>
