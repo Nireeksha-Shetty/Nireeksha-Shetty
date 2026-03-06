@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Profile badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=Nireeksha-Shetty&style=for-the-badge&color=7c3aed)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7c3aed)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
@@ -118,14 +118,14 @@ I'm a **Full Stack Engineer** with 3+ years of experience designing and shipping
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nireeksha-Shetty&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nireeksha-Shetty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nireeksha-Shetty&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
 
 </div>
 
@@ -158,7 +158,7 @@ I'm a **Full Stack Engineer** with 3+ years of experience designing and shipping
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&fontColor=ffffff" />
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
 *"Great software is built with intent — scalable by design, secure by default."*
 
