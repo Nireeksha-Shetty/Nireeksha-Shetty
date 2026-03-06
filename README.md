@@ -1,14 +1,4 @@
-## 🏢 Domain Expertise
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏦 Financial Technology
-- Trading & transaction processing systems
-- Real<div align="center">
-
-<!-- Header Name -->
+<div align="center">
 <h1>Hi, I'm Nireeksha Shetty 👋</h1>
 <h3>Full Stack Engineer · Java & React · FinTech</h3>
 
