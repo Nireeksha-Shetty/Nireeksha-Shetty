@@ -30,7 +30,7 @@
 
 ## 🧬 About Me
 
- *"I build systems that handle high-stakes, high-volume transactions — in both financial markets and healthcare."*
+ >*"I build systems that handle high-stakes, high-volume transactions — in both financial markets and healthcare."*
 
 I'm a **Full Stack Engineer** with 3+ years of experience designing and shipping production-grade applications in the **FinTech** domain. My core stack revolves around **Java & Spring Boot** on the backend and **React** on the frontend, deployed on cloud-native AWS infrastructure.
 
