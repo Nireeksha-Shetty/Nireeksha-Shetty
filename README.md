@@ -1,5 +1,3 @@
----
-
 ## 🚀 About Me
 
 💼 Full Stack Developer with strong expertise in **Java & React ecosystem**
@@ -17,8 +15,6 @@ Currently working on modern full-stack systems using:
 * CI/CD pipelines with GitLab & Jenkins
 * Unit & Acceptance Testing (JUnit, Cucumber, Cypress)
 
----
-
 ## 💼 Professional Experience
 
 **Full Stack Developer**  
@@ -30,8 +26,6 @@ GalaxE Solutions (2022 – Present)
 - Developed CI/CD pipelines and automated deployments
 - Worked on cloud integrations using AWS services & infrastructure provisioning with Terraform
 - Integrated monitoring and observability tools (Grafana, tracking systems)
-
----
 
 # 🛠 Tech Stack
 
@@ -50,8 +44,6 @@ GalaxE Solutions (2022 – Present)
 
 </div>
 
----
-
 ## 🎨 Frontend
 
 <div align="center">
@@ -64,8 +56,6 @@ GalaxE Solutions (2022 – Present)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
 
 </div>
-
----
 
 ## ☁️ Cloud & DevOps
 
@@ -81,8 +71,6 @@ GalaxE Solutions (2022 – Present)
 
 </div>
 
----
-
 ## 🗄 Databases
 
 <div align="center">
@@ -94,8 +82,6 @@ GalaxE Solutions (2022 – Present)
 
 </div>
 
----
-
 ## 🧪 Testing & Quality
 
 * JUnit
@@ -104,7 +90,6 @@ GalaxE Solutions (2022 – Present)
 * Postman
 * Snyk Security Scanning
 
----
 
 ## 📈 What I Focus On
 
@@ -114,7 +99,6 @@ GalaxE Solutions (2022 – Present)
 ✔ Performance & distributed system design
 ✔ Writing maintainable, production-ready code
 
----
 
 ## 📫 Connect With Me
 
@@ -122,6 +106,5 @@ GalaxE Solutions (2022 – Present)
 🔗 Add your LinkedIn here
 📧 Add your professional email
 
----
 
 ⭐ Always open to collaborating on modern full stack & cloud-native projects.
