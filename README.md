@@ -1,4 +1,12 @@
-<div align="center">
+## 🏢 Domain Expertise
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏦 Financial Technology
+- Trading & transaction processing systems
+- Real<div align="center">
 
 <!-- Header Name -->
 <h1>Hi, I'm Nireeksha Shetty 👋</h1>
@@ -24,41 +32,22 @@
 
 > *"I build systems that handle high-stakes, high-volume transactions — in both financial markets and healthcare."*
 
-I'm a **Full Stack Engineer** with 3+ years of experience designing and shipping production-grade applications across **FinTech** and **Medical/Healthcare** domains. My core stack revolves around **Java & Spring Boot** on the backend and **React** on the frontend, deployed on cloud-native AWS infrastructure.
+I'm a **Full Stack Engineer** with 3+ years of experience designing and shipping production-grade applications in the **FinTech** domain. My core stack revolves around **Java & Spring Boot** on the backend and **React** on the frontend, deployed on cloud-native AWS infrastructure.
 
 - 🏦 **FinTech** — Trading systems, real-time transaction processing, secure auth (JWT/OAuth2)
-- 🏥 **MedTech / Healthcare** — Enterprise medical applications, compliant data handling, high-availability services
 - ☁️ **Cloud & DevOps** — AWS, Terraform, Docker, CI/CD (GitLab, Jenkins)
-- 🔬 **Currently exploring** — Reactive systems with Spring WebFlux & event-driven architecture with Kafka
 
 📍 Karnataka, India &nbsp;|&nbsp; 💼 Open to Full Stack & Cloud-Native Engineering roles
 
 ---
 
-## 🏢 Domain Expertise
+## 🏦 Domain Expertise — Financial Technology
 
-<table>
-<tr>
-<td width="50%">
-
-### 🏦 Financial Technology
 - Trading & transaction processing systems
 - Real-time event-driven architecture (Kafka)
 - Secure auth — JWT, OAuth2, Spring Security
 - High-availability microservices at scale
-
-</td>
-<td width="50%">
-
-### 🏥 Medical & Healthcare
-- Enterprise-grade healthcare applications
-- Compliant, secure data management
-- Integration with clinical/operational systems
-- Resilient backend services
-
-</td>
-</tr>
-</table>
+- Enterprise full-stack applications (Java + React)
 
 ---
 
@@ -134,14 +123,37 @@ I'm a **Full Stack Engineer** with 3+ years of experience designing and shipping
 
 ## 💼 Experience
 
-**Full Stack Developer** &nbsp;|&nbsp; *GalaxE Solutions* &nbsp;|&nbsp; `2022 – Present`
+**Full Stack Developer** &nbsp;|&nbsp; *Endava* &nbsp;|&nbsp; `2022 – Present`
 
-- 🔧 Designed and delivered full-stack enterprise applications across **FinTech** and **Medical** domains using Spring Boot & React
+- 💹 Currently working on **IG** — a FinTech trading application handling real-time financial data
+- 🔧 Building full-stack features using **Java, Spring Boot & React**
 - 🔐 Implemented **JWT-based authentication** & microservices with Spring Cloud Gateway
 - 🗃️ Built REST APIs with JPA/Hibernate integrated with Oracle, MSSQL & PostgreSQL
-- ☁️ Worked on cloud integrations using **AWS services** & infrastructure provisioning with **Terraform**
+- ☁️ Cloud integrations using **AWS services** & infrastructure provisioning with **Terraform**
 - 📈 Set up **CI/CD pipelines**, automated deployments and observability with Grafana
 - ⚡ Worked with **Kafka** for real-time, event-driven data pipelines
+
+---
+
+## 🚀 Projects
+
+| Project | Domain | Tech Stack | Highlights |
+|---------|--------|------------|------------|
+| **IG** | FinTech / Trading | Java, Spring Boot, React, Kafka, AWS, Terraform | Real-time trading application — current project at IG Infotech |
+| **GxMapper** | Data Integration | Java, Spring Boot, React, Oracle, Jenkins | XML-to-BMS format converter; reduces manual data intervention |
+| **LTS (Leave & Travel System)** | Enterprise Internal Tool | React, Java, Reactive Spring Boot, MSSQL | Built entire app from scratch — leave, WFH, travel & WFO requests |
+| **GxPlanning** | Enterprise Internal Tool | React, Java, Spring Boot, MySQL, PostgreSQL | Planning poker platform for agile team estimation |
+| **TATA CliQ Clone** | E-Commerce | React, Java, Spring Boot, MySQL | Full-stack e-commerce with role-based access (User & Admin) |
+| **GalaxE Movie Theatre** | Entertainment | React, Java, Spring Boot, MySQL | Theatre booking system with food & beverage ordering |
+| **GX Dash & Maps** | Enterprise Product | React, Java, Spring Boot, MySQL | Feature addition to existing enterprise dashboard |
+
+### 📱 Beyond the Core Stack
+> *Exploring cross-platform mobile development*
+
+**Transit Rider App** &nbsp;|&nbsp; *Minerva* &nbsp;|&nbsp; `Apr 2024 – Aug 2024`
+- Built UI for a real-time ride-booking app with live driver tracking
+- Tech: **Flutter & Dart**, Firebase, Codemagic CI/CD, AWS S3
+- *Note: This was a UI-focused mobile project outside my primary Java/React stack — demonstrates adaptability across platforms*
 
 ---
 
