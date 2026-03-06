@@ -44,7 +44,11 @@ I'm a **Full Stack Engineer** with 3+ years of experience designing and shipping
 ## 🏦 Domain Expertise — Financial Technology
 
 - Trading & transaction processing systems
-- Real-time event-driven architecture (Kafka)
+- Event-driven architecture with Kafka
+- Secure auth — JWT, OAuth2, Spring Security
+- High-availability microservices at scale
+- Enterprise full-stack applications (Java + React)
+- Event-driven architecture with Kafka
 - Secure auth — JWT, OAuth2, Spring Security
 - High-availability microservices at scale
 - Enterprise full-stack applications (Java + React)
@@ -133,27 +137,7 @@ I'm a **Full Stack Engineer** with 3+ years of experience designing and shipping
 - 📈 Set up **CI/CD pipelines**, automated deployments and observability with Grafana
 - ⚡ Worked with **Kafka** for real-time, event-driven data pipelines
 
----
 
-## 🚀 Projects
-
-| Project | Domain | Tech Stack | Highlights |
-|---------|--------|------------|------------|
-| **IG** | FinTech / Trading | Java, Spring Boot, React, Kafka, AWS, Terraform | Real-time trading application — current project at IG Infotech |
-| **GxMapper** | Data Integration | Java, Spring Boot, React, Oracle, Jenkins | XML-to-BMS format converter; reduces manual data intervention |
-| **LTS (Leave & Travel System)** | Enterprise Internal Tool | React, Java, Reactive Spring Boot, MSSQL | Built entire app from scratch — leave, WFH, travel & WFO requests |
-| **GxPlanning** | Enterprise Internal Tool | React, Java, Spring Boot, MySQL, PostgreSQL | Planning poker platform for agile team estimation |
-| **TATA CliQ Clone** | E-Commerce | React, Java, Spring Boot, MySQL | Full-stack e-commerce with role-based access (User & Admin) |
-| **GalaxE Movie Theatre** | Entertainment | React, Java, Spring Boot, MySQL | Theatre booking system with food & beverage ordering |
-| **GX Dash & Maps** | Enterprise Product | React, Java, Spring Boot, MySQL | Feature addition to existing enterprise dashboard |
-
-### 📱 Beyond the Core Stack
-> *Exploring cross-platform mobile development*
-
-**Transit Rider App** &nbsp;|&nbsp; *Minerva* &nbsp;|&nbsp; `Apr 2024 – Aug 2024`
-- Built UI for a real-time ride-booking app with live driver tracking
-- Tech: **Flutter & Dart**, Firebase, Codemagic CI/CD, AWS S3
-- *Note: This was a UI-focused mobile project outside my primary Java/React stack — demonstrates adaptability across platforms*
 
 ---
 
