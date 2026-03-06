@@ -30,7 +30,7 @@
 
 ## 🧬 About Me
 
- >*"I build systems that handle high-stakes, high-volume transactions — in both financial markets and healthcare."*
+> *"I build systems that handle high-stakes, high-volume transactions — in both financial markets and healthcare."*
 
 I'm a **Full Stack Engineer** with 3+ years of experience designing and shipping production-grade applications in the **FinTech** domain. My core stack revolves around **Java & Spring Boot** on the backend and **React** on the frontend, deployed on cloud-native AWS infrastructure.
 
@@ -138,6 +138,15 @@ I'm a **Full Stack Engineer** with 3+ years of experience designing and shipping
 - ⚡ Worked with **Kafka** for real-time, event-driven data pipelines
 
 
+
+---
+
+## 📱 Additional Experience
+
+Outside my core Java & React stack, I've also worked with cross-platform mobile development:
+
+- **Transit Rider App** — Built the UI for a real-time ride-booking app with live driver tracking
+- Tech: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![AWS S3](https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 ---
 
