@@ -6,11 +6,11 @@
 
 ### 🏦 Financial Technology
 - Trading & transaction processing systems
-- Real time transaction<div align="center">
+- Real<div align="center">
 
 <!-- Header Name -->
-<h1>Hi, I'm Nireeksha Shetty 👋</h1>
-<h3>Full Stack Engineer · Java & React · FinTech & MedTech</h3>
+<h1 align="center">Hi, I'm Nireeksha Shetty 👋</h1>
+<h3 align="center">Full Stack Engineer · Java & React · FinTech</h3>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
