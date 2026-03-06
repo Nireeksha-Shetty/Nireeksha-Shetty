@@ -15,17 +15,19 @@ Currently working on modern full-stack systems using:
 * CI/CD pipelines with GitLab & Jenkins
 * Unit & Acceptance Testing (JUnit, Cucumber, Cypress)
 
+
 ## 💼 Professional Experience
 
-**Full Stack Developer**  
-GalaxE Solutions (2022 – Present)
+**Full Stack Developer**
+*GalaxE Solutions | 2022 – Present*
 
-- Designed and developed full-stack enterprise applications using Spring Boot & React
-- Built REST APIs with JPA/Hibernate and integrated with Oracle, MSSQL & PostgreSQL
-- Implemented JWT-based authentication & microservices with Spring Cloud Gateway
-- Developed CI/CD pipelines and automated deployments
-- Worked on cloud integrations using AWS services & infrastructure provisioning with Terraform
-- Integrated monitoring and observability tools (Grafana, tracking systems)
+* Designed and developed full-stack enterprise applications using Spring Boot & React
+* Built REST APIs with JPA/Hibernate and integrated with Oracle, MSSQL & PostgreSQL
+* Implemented JWT-based authentication & microservices with Spring Cloud Gateway
+* Developed CI/CD pipelines and automated deployments
+* Worked on cloud integrations using AWS services & infrastructure provisioning with Terraform
+* Integrated monitoring and observability tools (Grafana, tracking systems)
+
 
 # 🛠 Tech Stack
 
@@ -44,6 +46,7 @@ GalaxE Solutions (2022 – Present)
 
 </div>
 
+
 ## 🎨 Frontend
 
 <div align="center">
@@ -56,6 +59,7 @@ GalaxE Solutions (2022 – Present)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
 
 </div>
+
 
 ## ☁️ Cloud & DevOps
 
@@ -71,6 +75,7 @@ GalaxE Solutions (2022 – Present)
 
 </div>
 
+
 ## 🗄 Databases
 
 <div align="center">
@@ -82,6 +87,7 @@ GalaxE Solutions (2022 – Present)
 
 </div>
 
+
 ## 🧪 Testing & Quality
 
 * JUnit
@@ -89,6 +95,22 @@ GalaxE Solutions (2022 – Present)
 * Cypress (E2E Testing)
 * Postman
 * Snyk Security Scanning
+
+## 🏦 Domain Expertise
+
+### 💰 Financial Technology (FinTech)
+
+* Trading & transaction processing systems
+* Real-time data handling & event-driven architecture
+* Secure authentication & authorization (JWT, OAuth2)
+* High-availability backend services
+
+### 🏢 Enterprise Applications
+
+* Scalable microservices architecture
+* API Gateway & Service discovery (Spring Cloud)
+* Distributed systems & cloud-native deployments
+* CI/CD-driven development culture
 
 
 ## 📈 What I Focus On
@@ -100,11 +122,15 @@ GalaxE Solutions (2022 – Present)
 ✔ Writing maintainable, production-ready code
 
 
-## 📫 Connect With Me
+## 📫 Let's Connect!
+
+💼 Open to collaboration on FinTech & enterprise backend systems
+💬 Ask me about Java, Spring Boot, Microservices, Cloud & DevOps
+⚡ Fun fact: I enjoy building systems designed to handle high-volume transactions at scale
 
 📍 Karnataka, India
 🔗 Add your LinkedIn here
 📧 Add your professional email
 
 
-⭐ Always open to collaborating on modern full stack & cloud-native projects.
+⭐ Always open to modern full stack & cloud-native engineering opportunities.
