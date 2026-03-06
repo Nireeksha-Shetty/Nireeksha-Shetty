@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Nireeksha%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Java%20%26%20React%20%7C%20FinTech%20%26%20MedTech&descAlignY=58&descSize=18&descColor=a78bfa" />
+<!-- Header Name -->
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=A78BFA&center=true&vCenter=true&width=1000&height=100&lines=Hey%2C+I'm+Nireeksha+Shetty+👋" alt="Header" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -158,7 +158,7 @@ I'm a **Full Stack Engineer** with 3+ years of experience designing and shipping
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
 *"Great software is built with intent — scalable by design, secure by default."*
 
