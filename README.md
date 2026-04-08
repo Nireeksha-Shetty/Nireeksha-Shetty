@@ -38,10 +38,6 @@ I'm a **Full Stack Engineer** with 3+ years of experience designing and shipping
 - Secure auth — JWT, OAuth2, Spring Security
 - High-availability microservices at scale
 - Enterprise full-stack applications (Java + React)
-- Event-driven architecture with Kafka
-- Secure auth — JWT, OAuth2, Spring Security
-- High-availability microservices at scale
-- Enterprise full-stack applications (Java + React)
 
 ---
 
