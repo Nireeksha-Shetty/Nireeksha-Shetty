@@ -27,7 +27,7 @@ I'm a **Full Stack Engineer** with 3+ years of experience designing and shipping
 - 🏦 **FinTech** — Trading systems, real-time transaction processing, secure auth (JWT/OAuth2)
 - ☁️ **Cloud & DevOps** — AWS, Terraform, Docker, CI/CD (GitLab, Jenkins)
 
-📍 Karnataka, India &nbsp;|&nbsp; 💼 Open to Full Stack & Cloud-Native Engineering roles
+📍 Karnataka, India &nbsp;|&nbsp; 💼 Open to Full Stack Engineering roles
 
 ---
 
